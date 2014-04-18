@@ -43,7 +43,7 @@ The following function calculates the mean of the special "vector" created with 
             x$setmean(m)
             m
     }
-{R}
+```
 
 ### Assignment: Caching the Inverse of a Matrix
 
