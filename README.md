@@ -14,7 +14,7 @@ The first function, `makeVector` creates a special "vector", which is really a l
 4.  get the value of the mean
 
 ```{R}
-    makeVector <- function(x = numeric()) {
+    makeVector <- function( x = numeric() ) {
             m <- NULL
             set <- function(y) {
                     x <<- y
