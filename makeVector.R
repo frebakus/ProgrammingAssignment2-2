@@ -1,5 +1,6 @@
 makeVector <- function( x = numeric() ) {
         
+        #Initialize matrix
         m <- NULL
         
         # set value of vector
